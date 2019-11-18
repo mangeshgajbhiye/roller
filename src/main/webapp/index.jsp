@@ -1,5 +1,5 @@
 <html>
-<body>
-<h2>Hello World!</h2>
+<body style="background:yellow">
+<h2 style="color:pink;">Hello World!</h2>
 </body>
 </html>
